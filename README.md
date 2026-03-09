@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Daisuke Sato 👋
 
-<!--
-**daisatodesuyo/daisatodesuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ruby on Rails Web Developer
 
-Here are some ideas to get you started:
+## Skills
+- Ruby
+- Ruby on Rails
+- PostgreSQL
+- Git
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### TagTune
+音楽にタグをつけて管理できるWebアプリ
+
+GitHub
+https://github.com/daisatodesuyo/TagTune
+
+### Reservationer
+店舗予約管理システム
+
+GitHub
+https://github.com/daisatodesuyo/reservationer_ver2
+
+## About Me
+高校1年からプログラミングを始め、
+現在はRuby on Railsを中心にWeb開発をしています。
